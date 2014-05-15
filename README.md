@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=almasaeed2010&url=http://almsaeedstudio.com&title=AdminLTE&language=&tags=github&category=software) [![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif "AdminLTE Presentation")](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=629XCUSXBHCBC "Donate")
 ------------------------
 
@@ -100,3 +101,9 @@ Image Credits:
 [ajaxload](http://www.ajaxload.info/ "")
 
 [pickaface](http://pickaface.net/ "")
+=======
+admin-panel
+===========
+
+My admin panel using adminLTE
+>>>>>>> 455b616e0ba9c10a5e0f21d0c5ec80696fb81b8b
